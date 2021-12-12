@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+# misc
+.DS_Store
+
+# logs
+*.log
+
+# env
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/settings.json
+
+# output
+dist/
+
+# test
+coverage/
+
+# ESLint
+.eslintcache
